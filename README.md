@@ -4,6 +4,8 @@ A deep learning project for **Cross-Prompt Automated Essay Scoring (AES)**.
 The goal is to train models on essays from existing prompts and test whether they can score essays from a **new unseen prompt** without retraining on that prompt.
 
 ---
+## Overview
+<img width="1055" height="1491" alt="Image" src="https://github.com/user-attachments/assets/0a364b25-bae4-4edf-b0bf-e368880c58ef" />
 
 ## Project Summary
 
